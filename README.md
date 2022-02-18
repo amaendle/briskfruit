@@ -1,4 +1,4 @@
-# Briskfruit
+# Brisk Fruit
 Port of a Jump &amp; Run game in X11-Basic.
 
 The game *Brisk Fruit* is a Jump & Run, originally released as Public Domain for the Atari ST.
@@ -14,3 +14,7 @@ Original Homepage: http://www.folke-rinneberg.de/brisk_fr.uit/brisk.htm#english
 
 # How to play
 Get X11-Basic at: https://github.com/kollokollo/X11Basic
+
+Start the BRISK_FR.bas in X11-Basic.
+
+Use the cursor keys, SPACE and ENTER.
